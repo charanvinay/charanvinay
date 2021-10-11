@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Charan Vinay Narni</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charanvinay&label=Profile%20views&color=0e75b6&style=flat" alt="charanvinay" /> </p>
+
 - 🔭 I’m currently working on [Cmail](https://github.com/charanvinay/Cmail-Gmail_Clone)
 
 - 🌱 I’m currently learning **Flutter, dart, Reactjs**
